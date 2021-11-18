@@ -1,3 +1,5 @@
+**This repo is deprecated and was transferred to https://github.com/near-examples/indexer-tx-watcher-example**
+
 Indexer that catches txs for specific contract(s)
 =================================================
 
